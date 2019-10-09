@@ -1,4 +1,3 @@
-console.log('hi');
 const pets = [
   {
       image: 'baby-siberian-husky.jpg',
